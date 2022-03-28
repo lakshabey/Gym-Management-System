@@ -6,4 +6,4 @@ Contains entities for
 - Members over 60 years of age
 - Student Members
 
-Also controller class implementing CRUD operations and an interface
+Contains an interface class initializing the methods and an implementation class defining the functions.
