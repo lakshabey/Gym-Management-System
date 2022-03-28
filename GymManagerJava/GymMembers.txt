@@ -1,0 +1,3 @@
+StudentMember{SchoolName='fsds'} DefaultMember{membershipNumber=122, name='sfsdf', startMembershipDate=Classes.Date{year=121, month=1, day=12}}
+Over60Member{Age=22} DefaultMember{membershipNumber=1212, name='sdfds', startMembershipDate=Classes.Date{year=0, month=0, day=0}}
+StudentMember{SchoolName='dfsf'} DefaultMember{membershipNumber=122, name='fsdf', startMembershipDate=Classes.Date{year=21, month=12, day=21}}

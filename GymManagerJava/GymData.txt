@@ -1,0 +1,3 @@
+StudentMember{SchoolName='DMC'} DefaultMember{membershipNumber=2018065, name='Lakshan', startMembershipDate=Classes.Date{year=2020, month=5, day=12}}
+Over60Member{Age=55} DefaultMember{membershipNumber=432, name='asfa', startMembershipDate=Classes.Date{year=2323, month=3, day=2}}
+StudentMember{SchoolName='dfsf'} DefaultMember{membershipNumber=423, name='fsdf', startMembershipDate=Classes.Date{year=3232, month=4, day=3}}
